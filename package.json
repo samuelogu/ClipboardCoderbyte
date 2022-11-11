@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/samuelogu/ClipboardCoderbyte/issues"
   },
-  "homepage": "https://github.com/samuelogu/ClipboardCoderbyte#readme"
+  "homepage": "https://github.com/samuelogu/ClipboardCoderbyte#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
