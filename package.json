@@ -1,0 +1,20 @@
+{
+  "name": "clipboardcoderbyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "refactoring_function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelogu/ClipboardCoderbyte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelogu/ClipboardCoderbyte/issues"
+  },
+  "homepage": "https://github.com/samuelogu/ClipboardCoderbyte#readme"
+}
