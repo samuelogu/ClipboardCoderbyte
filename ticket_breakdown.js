@@ -1,4 +1,5 @@
 //assuming the database is a MySQL database...
+// I'm also using ES6 here
 import knex from 'knex'; //using knew query builder
 import { getShiftsByFacility, generateReport } from '/path/to/module';
 
